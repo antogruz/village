@@ -1,0 +1,15 @@
+Au départ, le village est tout petit
+Le deck du joueur contient des personnalités pouvant naître dans ce village
+Les personnages ont des évolutions possibles (cartes) que l'on peut poser sur la carte de base
+Chaque tour, le joueur peut faire progresser un de ses villageois (équivalent d'attacher une énergie)
+À chaque fin de tour, les personnages actifs peuvent effectuer une des actions qu'ils maitrisent (= dont ils peuvent «payer» le coût)
+Le joueur gagne s'il parvient à réaliser l'objectif de la mission (exemples : avoir un village d'une certaine taille, construire un projet...)
+Le joueur perd s'il perd un certain nombre de villageois avant d'avoir réalisé l'objectif (ou s'il n'a plus du tout de villageois)
+Le deck du joueur contient aussi des batiments/aménagements qui peuvent etre construits
+Les personnages sont des animaux (ce qui permet de voir facilement les familles d'évolutions)
+À la fin de chaque tour, le jeu effectue une action contre le joueur (prévue à l'avance, dépendant de la carte «menace»)
+Des lieux influencent les possibilités du joueur, différents à chaque partie
+La nourriture permet de faire croitre le village et d'avoir plus de place sur le banc
+Les personnages ont également des passifs qui s'appliquent lorsqu'ils sont sur le banc (non-actifs)
+Les personnages ont de l'endurance : lorsqu'ils subissent plus de fatigue que leur endurance, ils abandonnent
+
