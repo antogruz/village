@@ -8,8 +8,9 @@ Le joueur perd s'il perd un certain nombre de villageois avant d'avoir réalisé
 Le deck du joueur contient aussi des batiments/aménagements qui peuvent etre construits
 Les personnages sont des animaux (ce qui permet de voir facilement les familles d'évolutions)
 À la fin de chaque tour, le jeu effectue une action contre le joueur (prévue à l'avance, dépendant de la carte «menace»)
-Des lieux influencent les possibilités du joueur, différents à chaque partie
+Des lieux influencent les possibilités du joueur, différents à chaque partie : par exemple le mot-clé «récupérer N» permet de prendre des ressources en fonction du lieu ou le personnage va.
 La nourriture permet de faire croitre le village et d'avoir plus de place sur le banc
 Les personnages ont également des passifs qui s'appliquent lorsqu'ils sont sur le banc (non-actifs)
 Les personnages ont de l'endurance : lorsqu'ils subissent plus de fatigue que leur endurance, ils abandonnent
+
 

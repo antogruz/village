@@ -1,8 +1,9 @@
 À son tour, le joueur:
- 1) Pioche une carte
- 2) Peut jouer des personnages de base sur son banc
- 3) Peut faire évoluer des personnages qui étaient déjà là au tour d'avant (en placant une carte d'évolution dessus)
- 4) Peut poser un marqueur de compétence (une fois) à un personnage en jeu
- 5) Termine son tour en utilisant une compétence de chacun de ses personnages actifs
- 6) La menace gagne un marqueur
- 7) L'effet de la carte menace le plus fort dont le «coût» peut etre payé s'active
+ * Pioche une carte
+ * Peut jouer des personnages de base sur son banc
+ * Peut faire évoluer des personnages qui étaient déjà là au tour d'avant (en placant une carte d'évolution dessus)
+ * Peut poser un marqueur de compétence (une fois) à un personnage en jeu
+ * Termine son tour en utilisant une compétence de chacun de ses personnages actifs
+ * Paye un point de nourriture par personnage présent (ou prend 2 points de fatigue)
+ * La menace gagne un marqueur
+ * L'effet de la carte menace le plus fort dont le «coût» peut etre payé s'active

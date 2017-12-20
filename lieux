@@ -1,0 +1,10 @@
+Foret :
+ 1 -> 1 bois
+ 1 -> 2 nourriture
+
+Montagne :
+ 1 -> 1 pierre
+ 1 -> 2 nourriture
+
+Riviere :
+ 2 -> 5 nourriture
