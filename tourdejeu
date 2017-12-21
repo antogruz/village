@@ -1,3 +1,6 @@
+Au début de la partie, le joueur pioche 3 cartes.
+On place toutes les menaces en face du joueur.
+
 À son tour, le joueur:
  * Pioche une carte
  * Peut jouer des personnages de base sur son banc
@@ -7,3 +10,4 @@
  * Paye un point de nourriture par personnage présent (ou prend 2 points de fatigue)
  * La menace gagne un marqueur
  * L'effet de la carte menace le plus fort dont le «coût» peut etre payé s'active
+
