@@ -1,5 +1,7 @@
 Scénario 1: Famine puis Ennemis
 
+Lorsque une menace demande de dépenser des ressources, elles doivent être dépensées uniquement au moment où elles sont gagnées.
+
 Les menaces gagnent des marqueurs, dans leur ordre d'arrivée
 
 Famine : Dépenser 3 points de nourriture pour résoudre (maximum 1 par tour)
@@ -7,4 +9,5 @@ effet de fin de tour :  o fatigue 1
 
 Ennemis : Construire la palissade pour résoudre (coût 4 bois 4 pierres)
 effet de fin de tour :
-(n) fatigue n/2
+
+o Lancez un dé par énergie : 1 dégat par 4+
