@@ -11,3 +11,4 @@ Avoir des personnages secondaires, qui ont un effet de fin de tour (exemple : fa
 Un nouveau type de ressource : le prestige -> qui pourrait permettre d'attirer des gens
 Un mode «dungeon run» ou le deck se construit au fur et a mesure
 Problème : On se retrouve avec des cartes en main qui ne servent a rien. On devrait pouvoir les utiliser
+Problème : On peut progresser plus vite que certaines menaces, et donc avoir intérêt à garder des menaces en vie - Ca pourrait être résolu par des menaces qui se stackent
