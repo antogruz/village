@@ -11,3 +11,4 @@ Un batiment qui donne toujours disponible un attribut
 Avoir des personnages secondaires, qui ont un effet de fin de tour (exemple : fabricant de paniers) et qui consomment de la nourriture.
 Un nouveau type de ressource : le prestige -> qui pourrait permettre d'attirer des gens
 Un mode «dungeon run» ou le deck se construit au fur et a mesure
+Problème : On se retrouve avec des cartes en main qui ne servent a rien. On devrait pouvoir les utiliser
