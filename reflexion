@@ -1,7 +1,15 @@
-Sur les pn.
-Actuellement, on ne peut pas mettre tous ses bonhommes au milieu car ca coûte cher.
+Sur le fait de travailler dans les batiments.
 
-On a donc des choix à faire. Par exemple, on peut ajouter un personnage seulement quand on veut le faire progresser. Ça coute aussi de garder ses vieux personnages plutot que de les laisser abandonner.
-Passer à 1PN pour 2 personnages serait surement une mauvaise idée, car beaucoup plus dur de prendre de l'avance. -> je vais tester. Effectivement c'est pas bien.
+Ça peut etre une bonne chose que les batiments offrent de nouvelles actions. Ça enrichirait le jeu.
+Mais le mot clé travailler est spécial. Ça voudrait dire que certaines cartes ne peuvent que travailler, d'autres que explorer.
+Attention : les batiments doivent offrir des choses de meme niveau lorqu'on y travaille. Les différences de puissance entre les batiments ne devraient résider que dans leur passif ou dans leur effet d'arrivée en jeu
 
-On peut garder ce système
+*Soit on fait deux decks :
+  Les travailleurs et les explorateurs, et on met un personnage actif de chaque type. Au passage, cette possibilité ouvre le jeu en mode coop : un joueur explore, l'autre travaille.
+*Soit on fait un seul deck :
+  Et le joueur équilibre comme il le souhaite son deck entre les deux.
+*Soit chaque personnage est plus polyvalent :
+	Au lieu du mot clé «ramasser» ou «travailler» il n'y a que une valeur, qui peut etre utilisée dans l'un ou dans l'autre.
+	Si on fait ca, il faudra rendre les personnages différents par d'autres aspects : des pouvoirs passifs, des effets bonus dans leurs actions...
+*Soit chaque batiment peut accueillir un personnage «chef du batiment», et le personnage y a un effet.
+	Mais ca complexifie un peu trop les choses à gérer «automatiquement».
